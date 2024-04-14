@@ -13,7 +13,7 @@ The objective of this Music Store Data Analysis project is to gain insights into
 </ul>
 
 <h4>Schema- Music Store Database</h4>
-<img src="https://github.com/rahulsatpathi1997/Project-Music-Store-Analysis/blob/main/MusicDatabaseSchema.png">
+<img src="https://github.com/rahulsatpathi1997/Project-Music-Store-Data-Analysis/blob/main/MusicDatabaseSchema.png">
 
 <h3>Business Problems</h3>
 <p>We have identified some problems by understanding the business</p>
